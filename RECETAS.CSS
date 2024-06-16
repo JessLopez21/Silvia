@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://i1.wp.com/gastroactivity.com/wp-content/uploads/2020/06/granos-de-cafe-en-arbol.jpg?resize=800%2C600&ssl=1);
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #f2f7fa;
+}
+
+.recipe {
+    background-color: #0ff4fc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.recipe h2 {
+    color: #0a0a0a;
+}
+
+.recipe p {
+    color: #111111;
+}
+/* Estilos del header */
+
+header {
+    background-image: url(https://i1.wp.com/gastroactivity.com/wp-content/uploads/2020/06/granos-de-cafe-en-arbol.jpg?resize=800%2C600&ssl=1);
+    color:rgb(450, 50, 50); 
+    padding: 20px;
+    text-align: center
+}
+ body{
+font-family:Arial, sans-serif;
+margin:0;
+padding: 0;
+background-image: url(https://thumbs.dreamstime.com/b/granos-de-caf%C3%A9-sobre-el-fondo-de-madera-65174269.jpg)
+
+}
+h1 {
+    
+    margin: 1;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #d6f5f0; /* Texto blanco */
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}

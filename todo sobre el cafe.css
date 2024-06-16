@@ -1,0 +1,67 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: hsl(0, 84%, 75%);
+    color: #131111;
+}
+
+
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    color: #4CAF50;
+    font-size: 1.8em;
+}
+
+section p {
+    font-size: 1.1em;
+}
+
+header {
+    background-image: url(https://i1.wp.com/gastroactivity.com/wp-content/uploads/2020/06/granos-de-cafe-en-arbol.jpg?resize=800%2C600&ssl=1);
+    color:rgb(450, 50, 50); 
+    padding: 20px;
+    text-align: center
+}
+ body{
+font-family:Arial, sans-serif;
+margin:0;
+padding: 0;
+background-image: url(https://thumbs.dreamstime.com/b/granos-de-caf%C3%A9-sobre-el-fondo-de-madera-65174269.jpg)
+
+}
+h1 {
+    
+    margin: 1;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #d6f5f0; /* Texto blanco */
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
